@@ -1,0 +1,13 @@
+PREAMBLE
+--------
+To create a bot (or something along those lines) that scrapes a configured Telegram channel for links pointing to movies/television shows/documentaries from the following URLs:
+* imdb
+* wikipedia
+
+Scraped links are to be stored in DB after tagged with the following details:
+* year
+* genre
+* cast
+* crew
+
+A user should be able to query the bot on one or more tags in any particular order to display results accordingly.
